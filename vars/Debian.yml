@@ -2,6 +2,7 @@
 apache_packages:
   - apache2
   - ufw
+  - kmod
 apache_services:
   - apache2
   - ufw
